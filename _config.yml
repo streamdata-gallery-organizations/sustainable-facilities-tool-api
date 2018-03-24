@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: sustainable-facilities-tool-api.api.streamdata.gallery
+title: Streamdata Gallery Sustainable Facilities Tool API
+url: sustainable-facilities-tool-api.streamdata.gallery
 tag: Sustainable Facilities Tool API
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: sustainable-facilities-tool-api
 github_branch: master
 collections:

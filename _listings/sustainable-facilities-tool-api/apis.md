@@ -6,10 +6,10 @@ description: Our core API allows developers to interact with the Sustainable Fac
   other applications.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/sustainable-facilities-mobile_504b7.png
 x-kinRank: "8"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Sustainable Facilities Tool API
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/sustainable-facilities-tool-api/master/_listings/sustainable-facilities-tool-api/apis.md
 specificationVersion: "0.14"
 apis:
